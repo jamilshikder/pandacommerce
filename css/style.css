@@ -1,0 +1,30 @@
+.navbar{height: 50px;}
+
+.searchbox{width: 400px; border-radius: 20px;}
+.search-icon{height: 22px; width: 22px; position: relative; left: -50px; border: none;}
+
+.fixed-top{position: absolute; z-index: 99999;}
+.carousel-bg{background-color: #FEEAE9; border-radius: 10px;}
+
+.banner-text{padding-left: 100px;}
+.banner-price{font-size: 20px; color: #FF589B;}
+.banner-button-bg{background-color: #FF589B;}
+
+.categories .card{align-items: center; border-radius: 10px; padding: 10px 40px; box-shadow: 5px;}
+.categories a{text-decoration: none;}
+
+.card h3{color: #fff;}
+.card-watch{background: linear-gradient(#FF9C35, #FFD019);}
+.card-bag{background: linear-gradient(#FF589B, #FF136F);}
+.card-shoes{background: linear-gradient(#4829FF, #07F8C3);}
+
+.product .card{box-shadow: 5px;}
+.product{background-color: #F8F8F8;}
+.product .price{font-size: 24px; font-weight: bold;}
+.product a{text-decoration: none; color: #FF9D00;}
+.product-btn{background-color: black; padding: 10px 20px; margin-bottom: 30px;}
+.bags a{color: white; }
+
+.footer-bg{background-color: #FEEAE9;}
+.input-email{width: 400px; height: 40px; border-radius: 10px; border: none;}
+.send-email{position: relative; left: -55px; background-color: #FF247A; border: none; padding: 8px 25px; border-radius: 0px 5px 5px 0px;}
